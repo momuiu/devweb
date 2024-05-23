@@ -1,3 +1,14 @@
 a{text-decoration: none;}
 .menu{list-style-type: none;}
 
+
+html, body{
+    height: 100%;
+}
+body{
+    height: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1;
+}
